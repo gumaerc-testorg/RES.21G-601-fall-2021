@@ -1,5 +1,6 @@
 leftnav:
-- identifier: external--313652013-1702490988160
+- identifier: 0eaa8dc7-729c-4a83-89bb-7ae70d0246fb
   name: "\u0422\u0435\u043B\u0435\u043C\u043E\u0441\u0442\u044B Website"
-  url: https://www.telemosty.org/
+  pageRef: "/external-resources/\u0442\u0435\u043B\u0435\u043C\u043E\u0441\u0442\u044B\
+    -website_0eaa8dc7-729c-4a83-89bb-7ae70d0246fb"
   weight: 10

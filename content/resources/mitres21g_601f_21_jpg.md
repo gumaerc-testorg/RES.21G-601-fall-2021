@@ -7,10 +7,10 @@ file_size: 12970481
 file_type: image/jpeg
 image_metadata:
   caption: "The name \"Telemosty\" (\"Telebridges\" or \"Space Bridges\") originated\
-    \ in reference to [televised conversations](https://www.google.com/url?q=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FU.S.%25E2%2580%2593Soviet_Space_Bridge&sa=D&sntz=1&usg=AOvVaw1HoquDfOx6gbvMeG18l3cH)\
-    \ between people in the U.S. and the Soviet Union during the Perestroika era.\
-    \ (Photo by Alexander Ivasenko. Source: \u0422\u0435\u043B\u0435\u043C\u043E\u0441\
-    \u0442\u044B Website. License: CC BY-NC-SA 4.0.)"
+    \ in reference to {{% resource_link \"ff61753f-3e1b-40fd-8b04-6e3de52b0f8a\" \"\
+    televised conversations\" %}} between people in the U.S. and the Soviet Union\
+    \ during the Perestroika era. (Photo by Alexander Ivasenko. Source: \u0422\u0435\
+    \u043B\u0435\u043C\u043E\u0441\u0442\u044B Website. License: CC BY-NC-SA 4.0.)"
   credit: ''
   image-alt: Bridge across river on a brights sunny day with Moscow capital buildings
     in background.
