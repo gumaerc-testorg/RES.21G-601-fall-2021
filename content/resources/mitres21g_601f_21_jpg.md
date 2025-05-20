@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/res-21g-601-telebridges-russian-conversation-exchange-site-fall-2021/mitres21g_601f_21.jpg
+file: courses/telemosty/mitres21g_601f_21.jpg
 file_size: 12970481
 file_type: image/jpeg
 image_metadata:
